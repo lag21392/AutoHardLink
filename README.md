@@ -1,5 +1,5 @@
 # AutoHardLink
-
+Ejecutar como administrador y verificar que no se este corriendo procesos sobre las carpetas implicadas
 
 ![1](1.PNG?raw=true)
 
