@@ -1,0 +1,10 @@
+C:\Users\LAG\source\repos\AutoHardLink\AutoHardLink\bin\Debug\AutoHardLink.exe.config
+C:\Users\LAG\source\repos\AutoHardLink\AutoHardLink\bin\Debug\AutoHardLink.exe
+C:\Users\LAG\source\repos\AutoHardLink\AutoHardLink\bin\Debug\AutoHardLink.pdb
+C:\Users\LAG\source\repos\AutoHardLink\AutoHardLink\obj\Debug\AutoHardLink.csprojAssemblyReference.cache
+C:\Users\LAG\source\repos\AutoHardLink\AutoHardLink\obj\Debug\AutoHardLink.Properties.Resources.resources
+C:\Users\LAG\source\repos\AutoHardLink\AutoHardLink\obj\Debug\AutoHardLink.csproj.GenerateResource.cache
+C:\Users\LAG\source\repos\AutoHardLink\AutoHardLink\obj\Debug\AutoHardLink.csproj.CoreCompileInputs.cache
+C:\Users\LAG\source\repos\AutoHardLink\AutoHardLink\obj\Debug\AutoHardLink.exe
+C:\Users\LAG\source\repos\AutoHardLink\AutoHardLink\obj\Debug\AutoHardLink.pdb
+C:\Users\LAG\source\repos\AutoHardLink\AutoHardLink\obj\Debug\AutoHardLink.Form1.resources
